@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mayank-And-Scholar
+- 👀 I’m interested in Ardunio and cyber_security
+- 🌱 I’m currently learning in THE TRIBHUVAN SCHOOL , Patna , Bihar , India (website:  https://thetribhuvanschool.com/)
+- 💞️ I’m looking to collaborate on everything and anything
+- 📫 How to reach me Mayankhis2023@gmail.com (Email)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The Arduino USB board was the first to officially bear the Arduino name in 2005
